@@ -12,6 +12,7 @@ public class MD5 {
 	public static void Check() {
 		
 		System.out.println("hello Chinese");
+		System.out.println("online chang MD5 class");
 	}
 
 }
