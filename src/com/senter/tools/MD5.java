@@ -15,8 +15,9 @@ public class MD5 {
  
 		System.out.println("offline change MD5 class!!");
  
-		System.out.println("online chang MD5 class");
-		System.out.println("online chang2 ");
+		System.out.println("online change MD5 class");
+		System.out.println("online change2 ");
+		System.out.println("online change3");
 	}
 
 }
