@@ -14,10 +14,12 @@ public class MD5 {
 		System.out.println("hello Chinese");
  
 		System.out.println("offline change MD5 class!!");
+		System.out.println("offline change 2ed");
  
 		System.out.println("online change MD5 class");
 		System.out.println("online change2 ");
 		System.out.println("online change3");
+		
 	}
 
 }
