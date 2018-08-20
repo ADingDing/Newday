@@ -1,0 +1,16 @@
+package com.senter.tools;
+
+
+    /**
+    * @ClassName: MD5
+    * @Description: TODO(类的描述)
+    * @author Dingliang
+    * @date 2018年8月20日
+    */
+
+public class MD5 {
+	public static void Check() {
+		
+	}
+
+}
