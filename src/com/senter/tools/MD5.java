@@ -16,6 +16,7 @@ public class MD5 {
 		System.out.println("offline change MD5 class!!");
 		System.out.println("offline change 2ed");
 		System.out.println("conflic test 本地第二次");
+		System.out.println("Push to upstream first time");
  
 		System.out.println("online change MD5 class");
 		System.out.println("online change2 ");
