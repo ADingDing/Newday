@@ -13,6 +13,7 @@ public class MD5 {
 		
 		System.out.println("hello Chinese");
 		System.out.println("online chang MD5 class");
+		System.out.println("online chang2 ");
 	}
 
 }
