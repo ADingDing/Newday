@@ -11,6 +11,7 @@ package com.senter.tools;
 public class MD5 {
 	public static void Check() {
 		
+		System.out.println("hello Chinese");
 	}
 
 }
